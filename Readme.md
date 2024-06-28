@@ -2,5 +2,5 @@
 
 - En construcción
 
-Para ejecutar el programa puedes: 
-``` Ejecutar npm install Reac```
+Para ejecutar el programa puedes ejcutar: 
+``` npm install Reac```
