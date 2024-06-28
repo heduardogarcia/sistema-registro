@@ -4,3 +4,5 @@
 
 Para ejecutar el programa puedes ejcutar: 
 ``` npm install Reac```
+
+Sistema de Registro
